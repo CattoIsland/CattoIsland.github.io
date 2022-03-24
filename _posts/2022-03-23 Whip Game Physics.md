@@ -1,7 +1,7 @@
 ---
 title: 'Whip Game Physics'
 date: 2022-03-01
-permalink: /posts/2022/03/WhipGamePhysics/
+permalink: /posts/2022/03/templatepost/
 tags:
   - Physics
   - Whip Mechanics
