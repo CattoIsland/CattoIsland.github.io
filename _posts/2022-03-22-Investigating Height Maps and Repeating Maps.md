@@ -1,5 +1,5 @@
 ---
-title: 'Creating Repeting Heightmaps and Textures from Mesh Array'
+title: 'Investigating Heightmaps and Textures from Mesh Array'
 date: 2022-03-01
 permalink: /posts/2022/03/templatepost/
 tags:

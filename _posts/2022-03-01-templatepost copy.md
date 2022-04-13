@@ -26,3 +26,7 @@ What problem do/did you have?
 What steps did you take to solve it?
 
 What did you learn in the process?
+
+What's my problem?
+How I solved it?
+And what I learned from it. 
